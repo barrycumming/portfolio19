@@ -56,6 +56,8 @@ main {
     .icons {
         margin-top: 1rem;
 
+       
+
 
         a {
             padding: 0.4rem;
@@ -64,6 +66,10 @@ main {
                 color: $secondary-color;
                 @include easeOut();
             }
+
+           
+
+            
         }
     }
 
